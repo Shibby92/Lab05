@@ -1,6 +1,6 @@
 public class PiramidaSfera {
 	public static void main(String[] args) {
-		double nasumican = 2;
+		double nasumican = (int)(Math.random()*(50+1));
 		double cetiriTrecine = 1.333333333;
 		int visina = 8;
 		System.out.println(nasumican);
